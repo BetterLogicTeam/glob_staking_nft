@@ -6,15 +6,15 @@ function Footer() {
     <div>
         <footer class="dark:bg-jacarta-900 footer_main page-footer bg-white">
       <div class="container">
-        <div class="grid grid-cols-6 gap-x-7 gap-y-14 pt-24 pb-12 md:grid-cols-12">
-          <div class="col-span-3 md:col-span-4">
+        <div class="row pt-10 pb-6">
+          <div class="col-lg-3 footer_main md:col-4">
             
-            <a href="index.html" class="mb-6 inline-block">
+            <a href="index.html" class="mb-6 footer_lik inline-block">
               <img src="logo.png" class="max-h-7 dark:hidden" alt="Xhibiter | NFT Marketplace" />
               <img src="logo_white.png" class="hidden max-h-7 dark:block" alt="Xhibiter | NFT Marketplace" />
             </a>
             <p class="dark:text-jacarta-300 footer_p mb-12">
-              Create, sell and collect truly rare digital artworks. Powered by blockchain technology.
+              Create, sell and collect truly rare digital  artworks. Powered by blockchain technology.
             </p>
             
             <div class="flex main_icon space-x-5">
@@ -73,7 +73,7 @@ function Footer() {
             
             </div>
           </div>
-            <div class="col-span-full sm:col-span-3 md:col-span-2 md:col-start-7">
+            <div class="col-lg-3 footer_list sm:col-3 md:col-2 md:col-7">
             {/* <h3 class="font-display text-jacarta-700 mb-6 text-sm dark:text-white">Home</h3> */}
             <ul class="dark:text-jacarta-300 flex flex-col space-y-1">
               <li>

@@ -346,7 +346,7 @@ function Collection_main() {
               </li>
               <li class="nav-item" role="presentation">
                 <button
-                  class="nav-link hover:text-jacarta-700 text-jacarta-400 relative flex items-center whitespace-nowrap py-3 px-6 dark:hover:text-white"
+                  class="nav-link kjkj hover:text-jacarta-700 text-jacarta-400 relative flex items-center whitespace-nowrap py-3 px-6 dark:hover:text-white"
                   id="activity-tab"
                   data-bs-toggle="tab"
                   data-bs-target="#activity"
@@ -384,6 +384,7 @@ function Collection_main() {
                 <div class="mb-8 flex flex-wrap items-center justify-between">
                   <div class="flex flex-wrap items-center">
                     {/* <!-- Blockchain --> */}
+
                     <div class="my-1 mr-2.5">
                       <button
                         class="group dropdown-toggle dark:border-jacarta-600 dark:bg-jacarta-700 group dark:hover:bg-accent hover:bg-accent border-jacarta-100 font-display text-jacarta-700 flex h-9 items-center rounded-lg border bg-white px-4 text-sm font-semibold transition-colors hover:border-transparent hover:text-green dark:text-white"

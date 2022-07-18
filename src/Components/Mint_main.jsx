@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './Mint_main.css'
 
 function Mint_main() {
   return (
@@ -35,7 +36,7 @@ function Mint_main() {
                 <h1 class="font-display text-jacarta-700 mb-4 text-4xl font-semibold dark:text-white">MINT</h1>
 
               <div class="mb-8 flex items-center space-x-4 whitespace-nowrap">
-                <div class=""><input class="count-form" type="text" id="qtyBox" value="1"/></div>
+                <div class="enput"><input class="count-form" type="text" id="qtyBox" value="1"/></div>
               </div>
                 {/* <!-- Creator / Owner --> */}
               <div class="mb-8 flex flex-wrap">
@@ -47,7 +48,7 @@ function Mint_main() {
                   </figure>
                   <div class="flex flex-col justify-center">
                      <a href="user.html" class="text-accent block">
-                      <span class="text-sm font-bold"><h1 style={{fontSize:"28px"}}>Price : 0 LSCN</h1></span>
+                      <span class="text-sm lsc font-bold"><h1 style={{fontSize:"28px"}}>Price : 0 LSCN</h1></span>
                     </a>
                   </div>
                 </div>

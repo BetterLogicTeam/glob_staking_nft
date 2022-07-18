@@ -1,0 +1,12 @@
+@media screen and (max-width:600px){
+    
+    .enput input{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .lsc h1{
+        font-size: 20px !important;
+    }
+}
